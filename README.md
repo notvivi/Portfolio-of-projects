@@ -1,3 +1,4 @@
-# Portfolio-of-projects
-
-Project with parallelization - https://github.com/notvivi/Linux-Autoconfig
+## Description
+- This repository serves as a crossroad for my projects.
+## Projects
+Parallelization - https://github.com/notvivi/Linux-Autoconfig
